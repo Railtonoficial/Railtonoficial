@@ -7,7 +7,7 @@
 </strong>.
   </br>
   </br>
-  Atualmente, Sou Estudante <strong>Pós-Graduação Desenvolvimento Full-Stack, </strong>E sou <strong>Graduação em análise e Desenvolvimento de Sistemas.</strong>
+  Atualmente, Sou Estudante <strong>Pós-Graduação Desenvolvimento Full-Stack, </strong>E sou <strong>Graduado em análise e Desenvolvimento de Sistemas.</strong>
 </p>
 
 
@@ -39,12 +39,12 @@
 
 ---
 
-<h3>Minhas Skills :rocket:</h3>
+<h3>Minhas Skills:</h3>
 
   **Aplicações e Dados:**
 
-  ![CSHARP](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
-  ![NET](  https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -56,15 +56,18 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-  ![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
+  ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?logo=windows11&logoColor=fff)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+  ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
+  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
   
   
 
 **Ferramentas:**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=fff)
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
+  ![PyCharm](https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
     
