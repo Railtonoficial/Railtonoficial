@@ -60,7 +60,6 @@
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
   ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
-  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
   
   
 
