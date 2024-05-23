@@ -3,7 +3,7 @@
 <h3>Olá, bem-vindo(a) ao meu Github!</h3>
 
 <p align="left">
-  Me Chamo Railton, tenho 27 anos e possuo ampla experiência em diversas áreas ao longo da minha carreira. Dedico parte do meu tempo livre aos jogos, sendo o League of Legends o meu favorito, gosto de me exercitar andando de skate board. Além disso, adoro viajar e tirar fotos de paisagens.
+  Me Chamo Railton, Possuo ampla experiência em diversas áreas ao longo da minha carreira. Dedico parte do meu tempo livre aos jogos, sendo o League of Legends o meu favorito, gosto de me exercitar andando de skate board. Além disso, adoro viajar e tirar fotos de paisagens.
 </strong>.
   </br>
   </br>
