@@ -21,7 +21,7 @@
 
 <div align="left">
   <a href="railtonaraujoofc@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://www.flaticon.com/br/icone-gratis/gmail_2504727?term=gmail&page=1&position=1&origin=search&related_id=2504727" alt="Gmail"/>
   </a>
 
   <a href="https://api.whatsapp.com/send?phone=5562992512120" target="_blank">
