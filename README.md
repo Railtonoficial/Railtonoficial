@@ -29,7 +29,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/railton-araujo-b677aa22b/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="Linkedin"/>
+    <img src="https://img.icons8.com/?size=100&id=108812&format=png&color=000000" alt="Linkedin"/>
   </a>
 
   
