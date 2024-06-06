@@ -25,7 +25,7 @@
   </a>
 
   <a href="https://api.whatsapp.com/send?phone=5562992512120" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.icons8.com/?size=100&id=108653&format=png&color=000000" alt="WhatsApp"/>
   </a>
 
   <a href="https://www.linkedin.com/in/railton-araujo-b677aa22b/" target="_blank">
