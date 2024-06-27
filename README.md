@@ -3,7 +3,8 @@
 <h3>Olá, bem-vindo(a) ao meu Github!</h3>
 
 <p align="left">
-  Me Chamo Railton, Possuo ampla experiência em diversas áreas ao longo da minha carreira. Dedico parte do meu tempo livre aos jogos, sendo o League of Legends o meu favorito, gosto de me exercitar andando de skate board. Além disso, adoro viajar e tirar fotos de paisagens.
+ Meu nome é Railton, possuo ampla experiência em diversas áreas ao longo da minha carreira. Dedico parte do meu tempo livre aos estudos. Além disso, adoro viajar e tirar fotos de paisagens,
+Recém-formado em análise e Desenvolvimento de sistemas, estou ansioso para começar minha carreira em desenvolvimento de software. Estou constantemente à procura de novos desafios e oportunidades para aprender e crescer na área do desenvolvimento de software. 
 </strong>.
   </br>
   </br>
