@@ -29,7 +29,7 @@ Recém-formado em análise e Desenvolvimento de sistemas, estou ansioso para com
     <img src="https://img.icons8.com/?size=100&id=108653&format=png&color=000000" alt="WhatsApp"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/railton-araujo-b677aa22b/" target="_blank">
+  <a href="https://www.linkedin.com/in/railtonoficial/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=108812&format=png&color=000000" alt="Linkedin"/>
   </a>
 
