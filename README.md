@@ -3,13 +3,15 @@
 <h3>Olá, bem-vindo(a) ao meu Github!</h3>
 
 <p align="left">
- Meu nome é Railton, possuo ampla experiência em diversas áreas ao longo da minha carreira. Dedico parte do meu tempo livre aos estudos. Além disso, adoro viajar e tirar fotos de paisagens,
-Recém-formado em análise e Desenvolvimento de sistemas, estou ansioso para começar minha carreira em desenvolvimento de software. Estou constantemente à procura de novos desafios e oportunidades para aprender e crescer na área do desenvolvimento de software. 
+➪ Meu nome é Railton, possuo ampla experiência em diversas áreas ao longo da minha carreira. Dedico parte do meu tempo livre aos estudos. Além disso, adoro viajar e tirar fotos de paisagens, Recém-formado em análise e Desenvolvimento de sistemas, estou ansioso para começar minha carreira em desenvolvimento de software. Estou constantemente à procura de novos desafios e oportunidades para aprender e crescer na área do desenvolvimento de software. 
+
+➪ E consequentemente, me encontro em outro grande desafio que é concluir Pós-gradução Desenvolvimento full stack.
+
+➪ Ao longo de minha jornada como estudante, tive e tenho contato com diversas linguagens, tecnologias e ambientes.
 </strong>.
   </br>
   </br>
-  Atualmente, Sou Estudante <strong>Pós-Graduação Desenvolvimento Full-Stack, </strong>E sou <strong>Graduado em análise e Desenvolvimento de Sistemas.</strong>
-</p>
+ E consequentemente, me encontro em outro grande desafio que é concluir <strong>Pós-Graduação Desenvolvimento Full-Stack.</strong>
 
 
   
