@@ -9,7 +9,7 @@
 </strong>.
   </br>
   </br>
-➪ E consequentemente, me encontro em outro grande desafio que é concluir<strong>Pós-Graduação Desenvolvimento Full-Stack.</strong>
+➪ E consequentemente, me encontro em outro grande desafio que é concluir <strong>Pós-Graduação Desenvolvimento Full-Stack.</strong>
 
 
   
