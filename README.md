@@ -55,7 +55,8 @@ Estou sempre em busca de novos desafios e oportunidades que me permitam aprender
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)
-  <img width="75px" src="[https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)" />
+  <img width="75px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Icon" />
+
   
 **DevOps:**
 
