@@ -62,6 +62,7 @@ Estou sempre em busca de novos desafios e oportunidades que me permitam aprender
   <img width="64px" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJs Icon" />
   <img width="85px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgresSQL Icon" />
   <img width="70px" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Icon" />
+  <img width="70px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Icon" />
 
   
 **DevOps:**
