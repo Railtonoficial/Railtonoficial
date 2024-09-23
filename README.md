@@ -3,9 +3,13 @@
 <h3>Olá, bem-vindo(a) ao meu Github!</h3>
 
 <p align="left">
-➪ Meu nome é Railton, possuo ampla experiência em diversas áreas ao longo da minha carreira. Dedico parte do meu tempo livre aos estudos. Além disso, adoro viajar e tirar fotos de paisagens, Recém-formado em análise e Desenvolvimento de sistemas, estou ansioso para começar minha carreira em desenvolvimento de software. Estou constantemente à procura de novos desafios e oportunidades para aprender e crescer na área do desenvolvimento de software. 
+➪Olá, meu nome é Railton. Tenho uma vasta experiência em diversas áreas ao longo da minha carreira e sou um entusiasta do aprendizado contínuo, dedicando parte do meu tempo livre aos estudos. 
 
-➪ Ao longo de minha jornada como estudante, tive e tenho contato com diversas linguagens, tecnologias e ambientes.
+Recentemente, me formei em Análise e Desenvolvimento de Sistemas, e atualmente estou enfrentando um novo desafio: concluir minha Pós-Graduação em Desenvolvimento Full Stack e Engenharia de Software.
+
+Minha trajetória como estudante me proporcionou a oportunidade de explorar uma ampla gama de linguagens, tecnologias e ambientes de desenvolvimento. 
+
+Estou sempre em busca de novos desafios e oportunidades que me permitam aprender e crescer na área de desenvolvimento de software.
 </strong>.
   </br>
   </br>
