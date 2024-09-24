@@ -13,11 +13,6 @@ Estou sempre em busca de novos desafios e oportunidades que me permitam aprender
 </strong>.
   </br>
   </br>
-➪ E consequentemente, me encontro em outro grande desafio que é concluir <strong>Pós-Graduação Desenvolvimento Full-Stack.</strong>
-
-
-  
-  
 </div>
 
 <p align="left">
