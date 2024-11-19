@@ -82,32 +82,3 @@ Estou sempre em busca de novos desafios e oportunidades que me permitam aprender
   ![PyCharm](https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)
   <img width="62px" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="Xamp Icon" />
   <img width="65px" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" alt="Apache Icon" />
-    <style>
-@keyframes typing {
-  from {
-    width: 0;
-  }
-  to {
-    width: 100%;
-  }
-}
-
-@keyframes blink {
-  from {
-    border-right-color: transparent;
-  }
-  to {
-    border-right-color: black;
-  }
-}
-
-h3 {
-  font-family: "Courier New", Courier, monospace;
-  display: inline-block;
-  white-space: nowrap;
-  overflow: hidden;
-  border-right: 2px solid black;
-  animation: typing 4s steps(30, end), blink 0.6s step-end infinite;
-  width: fit-content;
-}
-</style>
