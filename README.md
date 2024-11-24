@@ -64,6 +64,7 @@ Estou sempre em busca de novos desafios e oportunidades que me permitam aprender
   <img width="62px" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma Icon" />
   <img width="62px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Icon" />
   <img width="62px" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express Icon" />
+  ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
   
 **DevOps:**
 
@@ -71,7 +72,6 @@ Estou sempre em busca de novos desafios e oportunidades que me permitam aprender
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?logo=windows11&logoColor=fff)
-  ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
   
   
 
