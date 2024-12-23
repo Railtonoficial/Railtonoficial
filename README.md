@@ -65,6 +65,8 @@ Estou sempre em busca de novos desafios e oportunidades que me permitam aprender
   ![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)
   <img width="62px" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express Icon" />
   <img width="85px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgresSQL Icon" />
+  <img width="70px" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Icon" />
+  <img width="70px" src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony Icon" />
   
   
   **DevOps:**
