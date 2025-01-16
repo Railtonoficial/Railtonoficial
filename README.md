@@ -2,8 +2,6 @@
 
 <h3>Olá, bem-vindo(a) ao meu Github!</h3>
 
-<p align="left">
-</strong>.
   </br>
   </br>
 </div>
