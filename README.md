@@ -2,10 +2,6 @@
 
 <h3>Olá, bem-vindo(a) ao meu Github!</h3>
 
-  </br>
-  </br>
-</div>
-
 <p align="left">
   Quer entrar em contato comigo? Segue as minhas redes sociais: ⤵️
 </p>
