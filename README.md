@@ -3,13 +3,6 @@
 <h3>Olá, bem-vindo(a) ao meu Github!</h3>
 
 <p align="left">
-Olá, meu nome é Railton. Tenho uma vasta experiência em diversas áreas ao longo da minha carreira e sou um entusiasta do aprendizado contínuo, dedicando parte do meu tempo livre aos estudos. 
-
-Recentemente, me formei em Análise e Desenvolvimento de Sistemas, e atualmente estou enfrentando um novo desafio: concluir minha Pós-Graduação em Desenvolvimento Full Stack e Engenharia de Software.
-
-Minha trajetória como estudante me proporcionou a oportunidade de explorar uma ampla gama de linguagens, tecnologias e ambientes de desenvolvimento. 
-
-Estou sempre em busca de novos desafios e oportunidades que me permitam aprender e crescer na área de desenvolvimento de software.
 </strong>.
   </br>
   </br>
