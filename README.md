@@ -5,7 +5,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 </div>
-
+<p align="left">
+  Quer entrar em contato comigo? Segue as minhas redes sociais: ⤵️
+</p>
 <hr/>
 
 ### Main skills:
