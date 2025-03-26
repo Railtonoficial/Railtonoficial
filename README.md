@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+e+Railton+Araujo.;Sou+Engenheiro+de+Software+Júnior.;Bem+Vindo!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+e+Railton+Araujo.;Sou+Software+Enginner+Júnior+|+Full+Stack+Developer.;Bem+Vindo!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
