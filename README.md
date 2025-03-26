@@ -6,14 +6,14 @@
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 </div>
 <p align="left">
-  Quer entrar em contato comigo? Segue as minhas redes sociais: ⤵️
+  Quer entrar em contato comigo? Segue as minhas redes sociais ⤵️
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/railtonoficial/)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62992512120)
 <hr/>
 
-<h3 align="left">Minha Stack </h3>
+<h3 align="left">Minha Stack ⤵️ </h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
